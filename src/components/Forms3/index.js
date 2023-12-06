@@ -29,7 +29,7 @@ export default function Forms3(){
         setMessagedolar("Em Dolar, a moeda equivale a:")
         setMessageeuro("Em Euro, a moeda equivale a:")
         setMessageiene("Em Iene, a moeda equivale a: ")
-        setTextButton("Converter Novamente")
+        setTextButton("Converterr Novamente")
         return
         }
         setMessage("Preencha o Valor")
